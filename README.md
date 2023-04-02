@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/qeuc9buw9jrxmai7?svg=true)](https://ci.appveyor.com/project/NikaNester.юova/api-ci)
+[![Build status](https://ci.appveyor.com/api/projects/status/qeuc9buw9jrxmai7?svg=true)](https://ci.appveyor.com/project/NikaNesterova/api-ci)
